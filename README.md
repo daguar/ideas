@@ -1,6 +1,9 @@
 ideas
 =====
 
-Wait, seriously? "Ideas" was available?
+This is the repo where I'm using GitHub Issues to track random project ideas.
 
-* tour-map: a JS and mapping app that follows a band's tour with video, reviews, and other interactive content that came out of a given show (in particular stuff like bootlegs)
+Want to see them? Head over to the Issues:
+
+https://github.com/daguar/ideas/issues
+
